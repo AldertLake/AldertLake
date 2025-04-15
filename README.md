@@ -30,8 +30,5 @@
 
 <p align="center">I Simp on Objectif-C BTW</p>
 
-###
-
-<h2 align="left">Contributions Recent Activities</h2>
 
 
