@@ -7,15 +7,7 @@
 </div>
 
 ###
-
-<p align="left">My Name Isn't AlderLake And ain't from montenegro .</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
+<h4 align="left">My Name Isn't AlderLake And ain't from montenegro</h4>
 <h3 align="left">✨ Creating bugs since 2019<br>📚 Certified Boomer</h3>
 
 ###
@@ -42,8 +34,4 @@
 
 <h2 align="left">Contributions Recent Activities</h2>
 
-###
 
-<img src="https://raw.githubusercontent.com/aldertlake/aldertlake/output/snake.svg" alt="Snake animation" />
-
-###
