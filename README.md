@@ -8,7 +8,7 @@
 ###
 <h2 align="left">✨‎ 我只是浪费了你的时间兄弟</h2>
 
-<h4 align="left">⚠️‎ For people looking for my C++ plugins and tools, These are paid and repositories for these arent public :D</h4>
+<h4 align="left">⚠️‎ For people looking for my C++ plugins and tools, These are available at FAB :D</h4>
 
 
 
