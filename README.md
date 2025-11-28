@@ -8,7 +8,7 @@
 ###
 <h2 align="left">✨‎ 我只是浪费了你的时间兄弟</h2>
 
-<h4 align="left">⚠️‎ For people looking for mY plugins and tools, These are available at FAB :D</h4>
+<h4 align="left">⚠️‎ 这是另一篇用谷歌翻译生成的毫无用处的中文文章，浪费你的时间去翻译。</h4>
 
 
 
